@@ -1,0 +1,8 @@
+prefix=/home/min/week2/install
+
+Name: week2_pkg
+Description: Description of week2_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

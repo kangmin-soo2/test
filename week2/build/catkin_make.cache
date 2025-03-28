@@ -1,0 +1,2 @@
+week2_pkg
+-DCATKIN_DEVEL_PREFIX=/home/min/week2/devel -DCMAKE_INSTALL_PREFIX=/home/min/week2/install -G Unix Makefiles

@@ -1,2 +1,1 @@
-My project
-test line
+test for basic study
